@@ -4,7 +4,7 @@ This project is a demonstration of a working ionic-notes-app backend
 
 ## Demo
 
-This application is deployed on Vercel. Please check it out: [here](https://.../api/note/).
+This application is deployed on Vercel. Please check it out: [here](https://ionic-notes-app-backend.vercel.app/api/note/).
 
 
 ## 🛠 Installation and setup
@@ -36,12 +36,12 @@ This application is deployed on Vercel. Please check it out: [here](https://.../
 _____________________________________________________________________________________________________
 | METHOD:                   URL:                                             // DESCRIPTION         |
 |___________________________________________________________________________________________________|
-| GET:      https://.../api/note/getallnotes/                                // get all notes       |
-| GET:      https://.../api/note/get/:id                                    // get a single note    |
-| POST:     https://.../api/note/new                                       // create a new note     |          
-| PATCH:    https://.../api/note/update/:id                                  // update a note       |
-| DELETE:   https://.../api/note/delete/:id                                  // delete a note       |
-| DELETE:   https://.../api/note/deleteall                                   // delete all notes    |
+| GET:      https://ionic-notes-app-backend.vercel.app/api/note/getall/       // get all notes      |
+| GET:      https://ionic-notes-app-backend.vercel.app/api/note/get/:id       // get a single note  |
+| POST:     https://ionic-notes-app-backend.vercel.app/api/note/new           // create a new note  |          
+| PATCH:    https://ionic-notes-app-backend.vercel.app/api/note/update/:id    // update a note      |
+| DELETE:   https://ionic-notes-app-backend.vercel.app/api/note/delete/:id    // delete a note      |
+| DELETE:   https://ionic-notes-app-backend.vercel.app/api/note/deleteall     // delete all notes   |
 |___________________________________________________________________________________________________|
 ```
 
